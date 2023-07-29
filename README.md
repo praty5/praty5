@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
-- 📫 How to reach me **https://www.linkedin.com/in/pratyush-roshan/**
+- 📫 How to reach me **<a href="https://linkedin.com/in/pratyush-roshan" target="blank"><img align="center"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
