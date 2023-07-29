@@ -5,10 +5,11 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
-- 📫 How to reach me **pratyushr2001@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/pratyush-roshan/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/pratyush-roshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-roshan" height="30" width="40" /></a>
 <a href="https://kaggle.com/pratyushroshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratyushroshan" height="30" width="40" /></a>
 </p>
 
